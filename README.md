@@ -1,5 +1,6 @@
 # Austin Software Challenge
 Author: Maximiliano Pellegrino
+
 Python version:  3.9.6
 
 ## Input

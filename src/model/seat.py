@@ -2,7 +2,7 @@ from src.model.price import Price
 
 
 class Seat:
-    def __init__(self, id: str, row: int, column: int, location:str, availability: bool,  cabin_class: str, features: list, price: Price):
+    def __init__(self, id: str, row: int, column: int, location: str, availability: bool,  cabin_class: str, features: list, price: Price):
         self.id = id
         self.row = row
         self.column = column
@@ -21,5 +21,5 @@ class Seat:
             "availability": self.availability,
             "cabin_class": self.cabin_class,
             "features": self.features,
-            "price": self.price.toJson()
+            "price": self.price != None and self.price.toJson() or None
         }

@@ -110,10 +110,7 @@
       "RESTRICTED",
       "WING"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "11B",
@@ -130,10 +127,7 @@
       "RESTRICTED",
       "WING"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "11C",
@@ -150,10 +144,7 @@
       "RESTRICTED",
       "WING"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "11D",
@@ -171,10 +162,7 @@
       "RESTRICTED",
       "WING"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "11E",
@@ -192,10 +180,7 @@
       "RESTRICTED",
       "WING"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "11F",
@@ -213,10 +198,7 @@
       "RESTRICTED",
       "WING"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "12A",
@@ -1609,10 +1591,7 @@
     "features": [
       "SEAT_NOT_ALLOWED_FOR_INFANT"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "21B",
@@ -1624,10 +1603,7 @@
     "features": [
       "SEAT_NOT_ALLOWED_FOR_INFANT"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "21C",
@@ -1881,10 +1857,7 @@
       "RESTRICTED",
       "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "26B",
@@ -1898,10 +1871,7 @@
       "RESTRICTED",
       "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "26C",
@@ -1916,10 +1886,7 @@
       "RESTRICTED",
       "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "26D",
@@ -1935,10 +1902,7 @@
       "RESTRICTED",
       "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "26E",
@@ -1953,10 +1917,7 @@
       "RESTRICTED",
       "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "26F",
@@ -1971,10 +1932,7 @@
       "RESTRICTED",
       "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "27A",
@@ -2279,10 +2237,7 @@
       "RESTRICTED",
       "REAR_FACING_SEAT"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "30B",
@@ -2299,10 +2254,7 @@
       "RESTRICTED",
       "REAR_FACING_SEAT"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "30C",
@@ -2320,10 +2272,7 @@
       "RESTRICTED",
       "REAR_FACING_SEAT"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "30D",
@@ -2338,10 +2287,7 @@
       "REAR_FACING_SEAT",
       "CREW_SEAT"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "30E",
@@ -2355,10 +2301,7 @@
       "REAR_FACING_SEAT",
       "CREW_SEAT"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "30F",
@@ -2372,9 +2315,6 @@
       "REAR_FACING_SEAT",
       "CREW_SEAT"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   }
 ]

@@ -18,9 +18,13 @@ class Main():
        # Create the json writer
         writer = JsonWriter()
 
-        # Create the json filename
-        json_filename = filename.split('.')[0]+'.json'
-
+        # Try to create the json filename
+        try:
+            json_filename = filename.split('.')[0]+'.json'
+        except:
+            print("Error. There is a problem with the filename.")
+            return
+            
         # Try to parse with SeatMap1Parser and write the file
         try:
             seats = SeatMap1Parser().parse(filename)

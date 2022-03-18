@@ -153,7 +153,7 @@ class SeatMap2Parser():
 
     # Returns the price of a seat
     def __getPrice(self, seat, prices_info):
-        price = Price(0.0, 'USD')
+        price = None
         offer_item_ref = seat.find('ns:OfferItemRefs', self.__ns)
         if(offer_item_ref != None):
             price = prices_info[offer_item_ref.text]

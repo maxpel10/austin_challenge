@@ -73,9 +73,7 @@ class SeatMap1Parser():
     def __getPrice(self, seat):
         service = seat.find('ns:Service', self.__ns)
         # Default values
-        seat_fee = 0.0
-        seat_taxes = 0.0
-        currency = "USD"
+        price = None
         if(service != None):
             fee = service.find('ns:Fee', self.__ns)
             if(fee != None):
@@ -84,5 +82,7 @@ class SeatMap1Parser():
                 taxes = fee.find('ns:Taxes')
                 if(taxes != None):
                     seat_taxes = float(taxes.get('amount'))
+                    price = Price(seat_fee+seat_taxes, currency)
+
         # amount = fee + taxes
-        return Price(seat_fee+seat_taxes, currency)
+        return price

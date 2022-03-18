@@ -7,10 +7,7 @@
     "availability": true,
     "cabin_class": "FIRST",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "1B",
@@ -20,10 +17,7 @@
     "availability": true,
     "cabin_class": "FIRST",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "1E",
@@ -33,10 +27,7 @@
     "availability": true,
     "cabin_class": "FIRST",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "1F",
@@ -46,10 +37,7 @@
     "availability": true,
     "cabin_class": "FIRST",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "2A",
@@ -59,10 +47,7 @@
     "availability": true,
     "cabin_class": "FIRST",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "2B",
@@ -72,10 +57,7 @@
     "availability": true,
     "cabin_class": "FIRST",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "2E",
@@ -85,10 +67,7 @@
     "availability": true,
     "cabin_class": "FIRST",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "2F",
@@ -98,10 +77,7 @@
     "availability": true,
     "cabin_class": "FIRST",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "7A",
@@ -113,10 +89,7 @@
     "features": [
       "LAVATORY"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "7B",
@@ -128,10 +101,7 @@
     "features": [
       "LAVATORY"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "7C",
@@ -143,10 +113,7 @@
     "features": [
       "LAVATORY"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "7D",
@@ -158,10 +125,7 @@
     "features": [
       "BLOCKEDSEAT_PERMANENT"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "7E",
@@ -173,10 +137,7 @@
     "features": [
       "BLOCKEDSEAT_PERMANENT"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "7F",
@@ -186,10 +147,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "8A",
@@ -201,10 +159,7 @@
     "features": [
       "LIMITED RECLINE"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "8B",
@@ -216,10 +171,7 @@
     "features": [
       "LIMITED RECLINE"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "8C",
@@ -231,10 +183,7 @@
     "features": [
       "LIMITED RECLINE"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "8D",
@@ -244,10 +193,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "8E",
@@ -257,10 +203,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "8F",
@@ -270,10 +213,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "9A",
@@ -283,10 +223,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "9B",
@@ -296,10 +233,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "9C",
@@ -309,10 +243,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "9D",
@@ -322,10 +253,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "9E",
@@ -335,10 +263,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "9F",
@@ -348,10 +273,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "10A",
@@ -361,10 +283,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "10B",
@@ -374,10 +293,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "10C",
@@ -387,10 +303,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "10D",
@@ -400,10 +313,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "10E",
@@ -413,10 +323,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "10F",
@@ -426,10 +333,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "11A",
@@ -439,10 +343,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "11B",
@@ -452,10 +353,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "11C",
@@ -465,10 +363,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "11D",
@@ -478,10 +373,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "11E",
@@ -491,10 +383,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "11F",
@@ -504,10 +393,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "12A",
@@ -520,10 +406,7 @@
       "PREFERRED",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "12B",
@@ -536,10 +419,7 @@
       "PREFERRED",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "12C",
@@ -552,10 +432,7 @@
       "PREFERRED",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 4200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "12D",
@@ -568,10 +445,7 @@
       "PREFERRED",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 4200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "12E",
@@ -584,10 +458,7 @@
       "PREFERRED",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "12F",
@@ -600,10 +471,7 @@
       "PREFERRED",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "14A",
@@ -617,10 +485,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 2700.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "14B",
@@ -634,10 +499,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 2600.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "14C",
@@ -651,10 +513,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 4200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "14D",
@@ -668,10 +527,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 4200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "14E",
@@ -685,10 +541,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 2600.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "14F",
@@ -702,10 +555,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 2700.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "15A",
@@ -719,10 +569,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 2700.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "15B",
@@ -736,10 +583,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 2600.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "15C",
@@ -753,10 +597,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 4200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "15D",
@@ -770,10 +611,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 4200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "15E",
@@ -787,10 +625,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 2600.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "15F",
@@ -804,10 +639,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 2700.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "20A",
@@ -820,10 +652,7 @@
       "LIMITED RECLINE",
       "OVERWING"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "20B",
@@ -836,10 +665,7 @@
       "LIMITED RECLINE",
       "OVERWING"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "20C",
@@ -852,10 +678,7 @@
       "LIMITED RECLINE",
       "OVERWING"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "20D",
@@ -868,10 +691,7 @@
       "LIMITED RECLINE",
       "OVERWING"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "20E",
@@ -884,10 +704,7 @@
       "LIMITED RECLINE",
       "OVERWING"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "20F",
@@ -900,10 +717,7 @@
       "LIMITED RECLINE",
       "OVERWING"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "21A",
@@ -915,10 +729,7 @@
     "features": [
       "OVERWING"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "21B",
@@ -930,10 +741,7 @@
     "features": [
       "OVERWING"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "21C",
@@ -945,10 +753,7 @@
     "features": [
       "OVERWING"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "21D",
@@ -960,10 +765,7 @@
     "features": [
       "OVERWING"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "21E",
@@ -975,10 +777,7 @@
     "features": [
       "OVERWING"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "21F",
@@ -990,10 +789,7 @@
     "features": [
       "OVERWING"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "22A",
@@ -1007,10 +803,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 2700.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "22B",
@@ -1023,10 +816,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "22C",
@@ -1040,10 +830,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 4200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "22D",
@@ -1057,10 +844,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 4200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "22E",
@@ -1073,10 +857,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "22F",
@@ -1090,10 +871,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 2700.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "23A",
@@ -1107,10 +885,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 2700.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "23B",
@@ -1124,10 +899,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "23C",
@@ -1142,10 +914,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "23D",
@@ -1159,10 +928,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 4200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "23E",
@@ -1175,10 +941,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "23F",
@@ -1192,10 +955,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 2700.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "24A",
@@ -1209,10 +969,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 2700.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "24B",
@@ -1225,10 +982,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "24C",
@@ -1242,10 +996,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 4200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "24D",
@@ -1259,10 +1010,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 4200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "24E",
@@ -1275,10 +1023,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "24F",
@@ -1292,10 +1037,7 @@
       "OVERWING",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 2700.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "25A",
@@ -1308,10 +1050,7 @@
       "PREFERRED",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 2700.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "25B",
@@ -1324,10 +1063,7 @@
       "BLOCKEDSEAT_PERMANENT",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "25C",
@@ -1340,10 +1076,7 @@
       "BLOCKEDSEAT_PERMANENT",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "25D",
@@ -1356,10 +1089,7 @@
       "PREFERRED",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 4200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "25E",
@@ -1371,10 +1101,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "25F",
@@ -1387,10 +1114,7 @@
       "PREFERRED",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 2700.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "26A",
@@ -1403,10 +1127,7 @@
       "PREFERRED",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 2700.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "26B",
@@ -1418,10 +1139,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "26C",
@@ -1434,10 +1152,7 @@
       "PREFERRED",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 4200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "26D",
@@ -1450,10 +1165,7 @@
       "PREFERRED",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 4200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "26E",
@@ -1465,10 +1177,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "26F",
@@ -1481,10 +1190,7 @@
       "PREFERRED",
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 2700.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "27A",
@@ -1496,10 +1202,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1300.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "27B",
@@ -1511,10 +1214,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "27C",
@@ -1526,10 +1226,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "27D",
@@ -1541,10 +1238,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1800.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "27E",
@@ -1556,10 +1250,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "27F",
@@ -1571,10 +1262,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1300.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "28A",
@@ -1586,10 +1274,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1300.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "28B",
@@ -1601,10 +1286,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "28C",
@@ -1616,10 +1298,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1800.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "28D",
@@ -1631,10 +1310,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "28E",
@@ -1646,10 +1322,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "28F",
@@ -1661,10 +1334,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1300.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "29A",
@@ -1676,10 +1346,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1300.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "29B",
@@ -1691,10 +1358,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "29C",
@@ -1706,10 +1370,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1800.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "29D",
@@ -1721,10 +1382,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1800.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "29E",
@@ -1736,10 +1394,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "29F",
@@ -1751,10 +1406,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1300.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "30A",
@@ -1766,10 +1418,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1300.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "30B",
@@ -1781,10 +1430,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "30C",
@@ -1796,10 +1442,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1800.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "30D",
@@ -1811,10 +1454,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1800.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "30E",
@@ -1826,10 +1466,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "30F",
@@ -1841,10 +1478,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1300.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "31A",
@@ -1856,10 +1490,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1300.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "31B",
@@ -1871,10 +1502,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "31C",
@@ -1886,10 +1514,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1800.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "31D",
@@ -1901,10 +1526,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1800.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "31E",
@@ -1916,10 +1538,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "31F",
@@ -1931,10 +1550,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1300.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "32A",
@@ -1946,10 +1562,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1300.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "32B",
@@ -1961,10 +1574,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "32C",
@@ -1976,10 +1586,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1800.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "32D",
@@ -1991,10 +1598,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1800.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "32E",
@@ -2006,10 +1610,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "32F",
@@ -2021,10 +1622,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1300.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "34A",
@@ -2036,10 +1634,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1300.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "34B",
@@ -2051,10 +1646,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "34C",
@@ -2066,10 +1658,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1800.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "34D",
@@ -2081,10 +1670,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1800.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "34E",
@@ -2096,10 +1682,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "34F",
@@ -2111,10 +1694,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1300.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "35A",
@@ -2126,10 +1706,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1300.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "35B",
@@ -2141,10 +1718,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "35C",
@@ -2156,10 +1730,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1800.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "35D",
@@ -2171,10 +1742,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1800.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "35E",
@@ -2186,10 +1754,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "35F",
@@ -2201,10 +1766,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1300.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "36A",
@@ -2216,10 +1778,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1300.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "36B",
@@ -2231,10 +1790,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "36C",
@@ -2246,10 +1802,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1800.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "36D",
@@ -2261,10 +1814,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1800.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "36E",
@@ -2276,10 +1826,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "36F",
@@ -2291,10 +1838,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1300.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "37A",
@@ -2306,10 +1850,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1300.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "37B",
@@ -2321,10 +1862,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "37C",
@@ -2336,10 +1874,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1800.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "37D",
@@ -2351,10 +1886,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1800.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "37E",
@@ -2366,10 +1898,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "37F",
@@ -2381,10 +1910,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1300.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "38A",
@@ -2396,10 +1922,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1300.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "38B",
@@ -2411,10 +1934,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "38C",
@@ -2426,10 +1946,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1800.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "38D",
@@ -2441,10 +1958,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1800.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "38E",
@@ -2456,10 +1970,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "38F",
@@ -2471,10 +1982,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1300.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "39A",
@@ -2486,10 +1994,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "39B",
@@ -2501,10 +2006,7 @@
     "features": [
       "CHARGEABLE"
     ],
-    "price": {
-      "amount": 1200.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "39C",
@@ -2514,10 +2016,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "39D",
@@ -2527,10 +2026,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "39E",
@@ -2540,10 +2036,7 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   },
   {
     "id": "39F",
@@ -2553,9 +2046,6 @@
     "availability": true,
     "cabin_class": "ECONOMY",
     "features": [],
-    "price": {
-      "amount": 0.0,
-      "currency": "USD"
-    }
+    "price": null
   }
 ]

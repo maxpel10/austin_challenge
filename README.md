@@ -29,8 +29,8 @@ You will get a .json file in the same directory as the original file, with the s
 		"LEG_SPACE_SEAT"
 	],
 	"price": {
-	"amount": 35.4,
-	"currency": "GBP"
+		"amount": 35.4,
+		"currency": "GBP"
 	}
 },
 ```

@@ -1,0 +1,2380 @@
+[
+  {
+    "id": "7A",
+    "row": 7,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+      "SEAT_IN_A_QUIET_ZONE"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "7B",
+    "row": 7,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_IN_A_QUIET_ZONE"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "7C",
+    "row": 7,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_IN_A_QUIET_ZONE",
+      "SEAT_NOT_SUITABLE_FOR_CHILD"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "7D",
+    "row": 7,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_IN_A_QUIET_ZONE",
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "7E",
+    "row": 7,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_IN_A_QUIET_ZONE",
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "7F",
+    "row": 7,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_IN_A_QUIET_ZONE",
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "11A",
+    "row": 11,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "RESTRICTED_RECLINE_SEAT",
+      "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+      "RESTRICTED_SEAT_GENERAL",
+      "RESTRICTED",
+      "WING"
+    ],
+    "price": {
+      "amount": 0.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "11B",
+    "row": 11,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "RESTRICTED_RECLINE_SEAT",
+      "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+      "RESTRICTED_SEAT_GENERAL",
+      "RESTRICTED",
+      "WING"
+    ],
+    "price": {
+      "amount": 0.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "11C",
+    "row": 11,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "RESTRICTED_RECLINE_SEAT",
+      "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+      "RESTRICTED_SEAT_GENERAL",
+      "RESTRICTED",
+      "WING"
+    ],
+    "price": {
+      "amount": 0.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "11D",
+    "row": 11,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "RESTRICTED_RECLINE_SEAT",
+      "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+      "RESTRICTED_SEAT_GENERAL",
+      "RESTRICTED",
+      "WING"
+    ],
+    "price": {
+      "amount": 0.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "11E",
+    "row": 11,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "RESTRICTED_RECLINE_SEAT",
+      "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+      "RESTRICTED_SEAT_GENERAL",
+      "RESTRICTED",
+      "WING"
+    ],
+    "price": {
+      "amount": 0.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "11F",
+    "row": 11,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "RESTRICTED_RECLINE_SEAT",
+      "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+      "RESTRICTED_SEAT_GENERAL",
+      "RESTRICTED",
+      "WING"
+    ],
+    "price": {
+      "amount": 0.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "12A",
+    "row": 12,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "RESTRICTED_RECLINE_SEAT",
+      "WING",
+      "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+      "EXIT",
+      "LEG_SPACE_SEAT"
+    ],
+    "price": {
+      "amount": 35.4,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "12B",
+    "row": 12,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "RESTRICTED_RECLINE_SEAT",
+      "WING",
+      "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+      "EXIT",
+      "LEG_SPACE_SEAT"
+    ],
+    "price": {
+      "amount": 35.4,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "12C",
+    "row": 12,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "RESTRICTED_RECLINE_SEAT",
+      "WING",
+      "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+      "EXIT",
+      "LEG_SPACE_SEAT"
+    ],
+    "price": {
+      "amount": 35.4,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "12D",
+    "row": 12,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "RESTRICTED_RECLINE_SEAT",
+      "WING",
+      "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+      "EXIT",
+      "LEG_SPACE_SEAT"
+    ],
+    "price": {
+      "amount": 35.4,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "12E",
+    "row": 12,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "RESTRICTED_RECLINE_SEAT",
+      "WING",
+      "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+      "EXIT",
+      "LEG_SPACE_SEAT"
+    ],
+    "price": {
+      "amount": 35.4,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "12F",
+    "row": 12,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "RESTRICTED_RECLINE_SEAT",
+      "WING",
+      "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+      "EXIT",
+      "LEG_SPACE_SEAT"
+    ],
+    "price": {
+      "amount": 35.4,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "13A",
+    "row": 13,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING",
+      "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+      "EXIT",
+      "LEG_SPACE_SEAT"
+    ],
+    "price": {
+      "amount": 35.4,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "13B",
+    "row": 13,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING",
+      "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+      "EXIT",
+      "LEG_SPACE_SEAT"
+    ],
+    "price": {
+      "amount": 35.4,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "13C",
+    "row": 13,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING",
+      "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+      "EXIT",
+      "LEG_SPACE_SEAT"
+    ],
+    "price": {
+      "amount": 35.4,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "13D",
+    "row": 13,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING",
+      "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+      "EXIT",
+      "LEG_SPACE_SEAT"
+    ],
+    "price": {
+      "amount": 35.4,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "13E",
+    "row": 13,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING",
+      "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+      "EXIT",
+      "LEG_SPACE_SEAT"
+    ],
+    "price": {
+      "amount": 35.4,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "13F",
+    "row": 13,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING",
+      "SEAT_NOT_ALLOWED_FOR_MEDICAL",
+      "EXIT",
+      "LEG_SPACE_SEAT"
+    ],
+    "price": {
+      "amount": 35.4,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "14A",
+    "row": 14,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "14B",
+    "row": 14,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "14C",
+    "row": 14,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "14D",
+    "row": 14,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "14E",
+    "row": 14,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "14F",
+    "row": 14,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "15A",
+    "row": 15,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "15B",
+    "row": 15,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "15C",
+    "row": 15,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "15D",
+    "row": 15,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "15E",
+    "row": 15,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "15F",
+    "row": 15,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "8A",
+    "row": 8,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_IN_A_QUIET_ZONE",
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "8B",
+    "row": 8,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_IN_A_QUIET_ZONE",
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "8C",
+    "row": 8,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_IN_A_QUIET_ZONE",
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "8D",
+    "row": 8,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_IN_A_QUIET_ZONE",
+      "SEAT_NOT_SUITABLE_FOR_CHILD"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "8E",
+    "row": 8,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_IN_A_QUIET_ZONE"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "8F",
+    "row": 8,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+      "SEAT_IN_A_QUIET_ZONE"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "9A",
+    "row": 9,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_IN_A_QUIET_ZONE",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+      "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "9B",
+    "row": 9,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_IN_A_QUIET_ZONE",
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "9C",
+    "row": 9,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_IN_A_QUIET_ZONE",
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "9D",
+    "row": 9,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_IN_A_QUIET_ZONE",
+      "SEAT_NOT_SUITABLE_FOR_CHILD"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "9E",
+    "row": 9,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_IN_A_QUIET_ZONE"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "9F",
+    "row": 9,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_IN_A_QUIET_ZONE",
+      "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+      "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "10A",
+    "row": 10,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+      "SEAT_IN_A_QUIET_ZONE",
+      "WING"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "10B",
+    "row": 10,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_IN_A_QUIET_ZONE",
+      "WING"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "10C",
+    "row": 10,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_IN_A_QUIET_ZONE",
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "WING"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "10D",
+    "row": 10,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_IN_A_QUIET_ZONE",
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "10E",
+    "row": 10,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_IN_A_QUIET_ZONE",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "10F",
+    "row": 10,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_IN_A_QUIET_ZONE",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING"
+    ],
+    "price": {
+      "amount": 22.1,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "22A",
+    "row": 22,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "22B",
+    "row": 22,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "22C",
+    "row": 22,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "22D",
+    "row": 22,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "22E",
+    "row": 22,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "22F",
+    "row": 22,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "23A",
+    "row": 23,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "23B",
+    "row": 23,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "23C",
+    "row": 23,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "23D",
+    "row": 23,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "23E",
+    "row": 23,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "23F",
+    "row": 23,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "16A",
+    "row": 16,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "16B",
+    "row": 16,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "16C",
+    "row": 16,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "16D",
+    "row": 16,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "16E",
+    "row": 16,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "16F",
+    "row": 16,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "17A",
+    "row": 17,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "17B",
+    "row": 17,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "17C",
+    "row": 17,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "17D",
+    "row": 17,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "17E",
+    "row": 17,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "17F",
+    "row": 17,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "18A",
+    "row": 18,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "18B",
+    "row": 18,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "18C",
+    "row": 18,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "18D",
+    "row": 18,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "18E",
+    "row": 18,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "18F",
+    "row": 18,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "WING"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "19A",
+    "row": 19,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "19B",
+    "row": 19,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "19C",
+    "row": 19,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "19D",
+    "row": 19,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "19E",
+    "row": 19,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "19F",
+    "row": 19,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "20A",
+    "row": 20,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "20B",
+    "row": 20,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "20C",
+    "row": 20,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "20D",
+    "row": 20,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "20E",
+    "row": 20,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "20F",
+    "row": 20,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "21A",
+    "row": 21,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": false,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 0.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "21B",
+    "row": 21,
+    "column": 2,
+    "location": "CENTER",
+    "availability": false,
+    "cabin_class": "PREFERENTIAL",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 0.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "21C",
+    "row": 21,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "21D",
+    "row": 21,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "21E",
+    "row": 21,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "21F",
+    "row": 21,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "24A",
+    "row": 24,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "24B",
+    "row": 24,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "24C",
+    "row": 24,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "24D",
+    "row": 24,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "24E",
+    "row": 24,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "24F",
+    "row": 24,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "25A",
+    "row": 25,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+      "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "25B",
+    "row": 25,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "25C",
+    "row": 25,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "25D",
+    "row": 25,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "25E",
+    "row": 25,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "25F",
+    "row": 25,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "SEAT_WITH_FACILITIES_FOR_HANDICAPPED",
+      "SEAT_WITH_FACILITIES_FOR_HANDICAPPED_INCAPACITATED_PASSENGER"
+    ],
+    "price": {
+      "amount": 17.7,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "26A",
+    "row": 26,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "RESTRICTED_SEAT_GENERAL",
+      "RESTRICTED",
+      "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+    ],
+    "price": {
+      "amount": 0.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "26B",
+    "row": 26,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [
+      "RESTRICTED_SEAT_GENERAL",
+      "RESTRICTED",
+      "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+    ],
+    "price": {
+      "amount": 0.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "26C",
+    "row": 26,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "RESTRICTED_SEAT_GENERAL",
+      "RESTRICTED",
+      "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+    ],
+    "price": {
+      "amount": 0.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "26D",
+    "row": 26,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "RESTRICTED_SEAT_GENERAL",
+      "RESTRICTED",
+      "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+    ],
+    "price": {
+      "amount": 0.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "26E",
+    "row": 26,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "PREFERENTIAL",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "RESTRICTED_SEAT_GENERAL",
+      "RESTRICTED",
+      "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+    ],
+    "price": {
+      "amount": 0.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "26F",
+    "row": 26,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "RESTRICTED_SEAT_GENERAL",
+      "RESTRICTED",
+      "SEAT_SUITABLE_FOR_UNACCOMPANIED_MINORS"
+    ],
+    "price": {
+      "amount": 0.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "27A",
+    "row": 27,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+      "REAR_FACING_SEAT"
+    ],
+    "price": {
+      "amount": 11.5,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "27B",
+    "row": 27,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "REAR_FACING_SEAT"
+    ],
+    "price": {
+      "amount": 11.5,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "27C",
+    "row": 27,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "REAR_FACING_SEAT"
+    ],
+    "price": {
+      "amount": 11.5,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "27D",
+    "row": 27,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "REAR_FACING_SEAT"
+    ],
+    "price": {
+      "amount": 11.5,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "27E",
+    "row": 27,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "REAR_FACING_SEAT"
+    ],
+    "price": {
+      "amount": 11.5,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "27F",
+    "row": 27,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "REAR_FACING_SEAT"
+    ],
+    "price": {
+      "amount": 11.5,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "28A",
+    "row": 28,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "REAR_FACING_SEAT"
+    ],
+    "price": {
+      "amount": 11.5,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "28B",
+    "row": 28,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "REAR_FACING_SEAT"
+    ],
+    "price": {
+      "amount": 11.5,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "28C",
+    "row": 28,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "REAR_FACING_SEAT"
+    ],
+    "price": {
+      "amount": 11.5,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "28D",
+    "row": 28,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "REAR_FACING_SEAT"
+    ],
+    "price": {
+      "amount": 11.5,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "28E",
+    "row": 28,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "REAR_FACING_SEAT"
+    ],
+    "price": {
+      "amount": 11.5,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "28F",
+    "row": 28,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+      "REAR_FACING_SEAT"
+    ],
+    "price": {
+      "amount": 11.5,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "29A",
+    "row": 29,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "REAR_FACING_SEAT"
+    ],
+    "price": {
+      "amount": 11.5,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "29B",
+    "row": 29,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "REAR_FACING_SEAT"
+    ],
+    "price": {
+      "amount": 11.5,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "29C",
+    "row": 29,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "REAR_FACING_SEAT"
+    ],
+    "price": {
+      "amount": 11.5,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "29D",
+    "row": 29,
+    "column": 4,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "REAR_FACING_SEAT"
+    ],
+    "price": {
+      "amount": 11.5,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "29E",
+    "row": 29,
+    "column": 5,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "REAR_FACING_SEAT"
+    ],
+    "price": {
+      "amount": 11.5,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "29F",
+    "row": 29,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_SUITABLE_FOR_ADULT_WITH_AN_INFANT",
+      "REAR_FACING_SEAT"
+    ],
+    "price": {
+      "amount": 11.5,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "30A",
+    "row": 30,
+    "column": 1,
+    "location": "WINDOW",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "RESTRICTED_RECLINE_SEAT",
+      "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+      "RESTRICTED_SEAT_GENERAL",
+      "RESTRICTED",
+      "REAR_FACING_SEAT"
+    ],
+    "price": {
+      "amount": 0.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "30B",
+    "row": 30,
+    "column": 2,
+    "location": "CENTER",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "RESTRICTED_RECLINE_SEAT",
+      "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+      "RESTRICTED_SEAT_GENERAL",
+      "RESTRICTED",
+      "REAR_FACING_SEAT"
+    ],
+    "price": {
+      "amount": 0.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "30C",
+    "row": 30,
+    "column": 3,
+    "location": "AISLE",
+    "availability": true,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "SEAT_NOT_ALLOWED_FOR_INFANT",
+      "RESTRICTED_RECLINE_SEAT",
+      "SEAT_TO_BE_LEFT_VACANT_OR_OFFERED_LAST",
+      "RESTRICTED_SEAT_GENERAL",
+      "RESTRICTED",
+      "REAR_FACING_SEAT"
+    ],
+    "price": {
+      "amount": 0.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "30D",
+    "row": 30,
+    "column": 4,
+    "location": "AISLE",
+    "availability": false,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "SEAT_NOT_SUITABLE_FOR_CHILD",
+      "RESTRICTED_RECLINE_SEAT",
+      "REAR_FACING_SEAT",
+      "CREW_SEAT"
+    ],
+    "price": {
+      "amount": 0.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "30E",
+    "row": 30,
+    "column": 5,
+    "location": "CENTER",
+    "availability": false,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "RESTRICTED_RECLINE_SEAT",
+      "REAR_FACING_SEAT",
+      "CREW_SEAT"
+    ],
+    "price": {
+      "amount": 0.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "30F",
+    "row": 30,
+    "column": 6,
+    "location": "WINDOW",
+    "availability": false,
+    "cabin_class": "ECONOMY",
+    "features": [
+      "RESTRICTED_RECLINE_SEAT",
+      "REAR_FACING_SEAT",
+      "CREW_SEAT"
+    ],
+    "price": {
+      "amount": 0.0,
+      "currency": "USD"
+    }
+  }
+]
